@@ -37,6 +37,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/sumitpandey48/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/sumitpandey48/DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/sumitpandey48/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/sumitpandey48/DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -383,6 +384,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/sumitpandey48/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumitpandey48/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/sumitpandey48/DSA/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitpandey48/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sumitpandey48/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/sumitpandey48/DSA/tree/main/0344-reverse-string/) | Easy |
