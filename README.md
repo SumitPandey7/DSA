@@ -334,6 +334,7 @@
 | [0242-valid-anagram](https://github.com/sumitpandey48/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sumitpandey48/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumitpandey48/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/sumitpandey48/DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sumitpandey48/DSA/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sumitpandey48/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -390,6 +391,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitpandey48/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sumitpandey48/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/sumitpandey48/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/sumitpandey48/DSA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sumitpandey48/DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/sumitpandey48/DSA/tree/main/0844-backspace-string-compare/) | Easy |
