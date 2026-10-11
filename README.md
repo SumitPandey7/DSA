@@ -50,6 +50,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitpandey48/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitpandey48/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/sumitpandey48/DSA/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/sumitpandey48/DSA/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/sumitpandey48/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sumitpandey48/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -291,6 +292,7 @@
 | [0070-climbing-stairs](https://github.com/sumitpandey48/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitpandey48/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/sumitpandey48/DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0204-count-primes](https://github.com/sumitpandey48/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/sumitpandey48/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/sumitpandey48/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0507-perfect-number](https://github.com/sumitpandey48/DSA/tree/main/0507-perfect-number/) | Easy |
@@ -408,6 +410,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/sumitpandey48/DSA/tree/main/0204-count-primes/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumitpandey48/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sumitpandey48/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search Tree
@@ -440,6 +443,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/sumitpandey48/DSA/tree/main/0204-count-primes/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumitpandey48/DSA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -490,4 +494,16 @@
 | [1021-remove-outermost-parentheses](https://github.com/sumitpandey48/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sumitpandey48/DSA/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sumitpandey48/DSA/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sumitpandey48/DSA/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sumitpandey48/DSA/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sumitpandey48/DSA/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
