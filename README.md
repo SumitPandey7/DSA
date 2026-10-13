@@ -60,6 +60,7 @@
 | [0494-target-sum](https://github.com/sumitpandey48/DSA/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sumitpandey48/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sumitpandey48/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0622-design-circular-queue](https://github.com/sumitpandey48/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sumitpandey48/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/sumitpandey48/DSA/tree/main/0682-baseball-game/) | Easy |
@@ -103,6 +104,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumitpandey48/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sumitpandey48/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sumitpandey48/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/sumitpandey48/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sumitpandey48/DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
@@ -152,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sumitpandey48/DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumitpandey48/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitpandey48/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -299,6 +302,7 @@
 | [0231-power-of-two](https://github.com/sumitpandey48/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/sumitpandey48/DSA/tree/main/0326-power-of-three/) | Easy |
 | [0507-perfect-number](https://github.com/sumitpandey48/DSA/tree/main/0507-perfect-number/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/sumitpandey48/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sumitpandey48/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sumitpandey48/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -512,4 +516,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sumitpandey48/DSA/tree/main/0204-count-primes/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
