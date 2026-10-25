@@ -74,6 +74,7 @@
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/sumitpandey48/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1049-last-stone-weight-ii](https://github.com/sumitpandey48/DSA/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sumitpandey48/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sumitpandey48/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitpandey48/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -255,6 +256,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumitpandey48/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sumitpandey48/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumitpandey48/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
@@ -270,6 +272,7 @@
 | [0112-path-sum](https://github.com/sumitpandey48/DSA/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sumitpandey48/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sumitpandey48/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -463,6 +466,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sumitpandey48/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -525,4 +529,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
