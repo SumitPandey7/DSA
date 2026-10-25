@@ -24,7 +24,6 @@ public:
             dfs(node->right,depth+1);
         }
     int findBottomLeftValue(TreeNode* root) {
-        int maxDepth = -1;
         dfs(root,0);
         return ans;
     }
