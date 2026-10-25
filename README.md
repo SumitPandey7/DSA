@@ -49,6 +49,7 @@
 | [0078-subsets](https://github.com/sumitpandey48/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sumitpandey48/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0135-candy](https://github.com/sumitpandey48/DSA/tree/main/0135-candy/) | Hard |
+| [0137-single-number-ii](https://github.com/sumitpandey48/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumitpandey48/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitpandey48/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/sumitpandey48/DSA/tree/main/0198-house-robber/) | Medium |
@@ -327,6 +328,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/sumitpandey48/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/sumitpandey48/DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0137-single-number-ii](https://github.com/sumitpandey48/DSA/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/sumitpandey48/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sumitpandey48/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/sumitpandey48/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
