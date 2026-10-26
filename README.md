@@ -90,6 +90,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/sumitpandey48/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumitpandey48/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sumitpandey48/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumitpandey48/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sumitpandey48/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sumitpandey48/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/sumitpandey48/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -262,6 +263,7 @@
 | [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sumitpandey48/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sumitpandey48/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumitpandey48/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +280,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/sumitpandey48/DSA/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sumitpandey48/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumitpandey48/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -474,6 +477,7 @@
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sumitpandey48/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumitpandey48/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -539,4 +543,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumitpandey48/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
