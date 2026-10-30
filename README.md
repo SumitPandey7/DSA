@@ -76,6 +76,7 @@
 | [0997-find-the-town-judge](https://github.com/sumitpandey48/DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1046-last-stone-weight](https://github.com/sumitpandey48/DSA/tree/main/1046-last-stone-weight/) | Easy |
 | [1049-last-stone-weight-ii](https://github.com/sumitpandey48/DSA/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sumitpandey48/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sumitpandey48/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sumitpandey48/DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -284,6 +285,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/sumitpandey48/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/sumitpandey48/DSA/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sumitpandey48/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/sumitpandey48/DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumitpandey48/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -549,6 +551,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/sumitpandey48/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumitpandey48/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
