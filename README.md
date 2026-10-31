@@ -105,6 +105,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitpandey48/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/sumitpandey48/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/sumitpandey48/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0127-word-ladder](https://github.com/sumitpandey48/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/sumitpandey48/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0217-contains-duplicate](https://github.com/sumitpandey48/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/sumitpandey48/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -281,6 +282,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sumitpandey48/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sumitpandey48/DSA/tree/main/0112-path-sum/) | Easy |
+| [0127-word-ladder](https://github.com/sumitpandey48/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/sumitpandey48/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sumitpandey48/DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sumitpandey48/DSA/tree/main/0226-invert-binary-tree/) | Easy |
@@ -367,6 +369,7 @@
 | [0022-generate-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/sumitpandey48/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0127-word-ladder](https://github.com/sumitpandey48/DSA/tree/main/0127-word-ladder/) | Hard |
 | [0242-valid-anagram](https://github.com/sumitpandey48/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/sumitpandey48/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sumitpandey48/DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -554,4 +557,8 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/sumitpandey48/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumitpandey48/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/sumitpandey48/DSA/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
