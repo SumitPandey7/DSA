@@ -61,6 +61,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sumitpandey48/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/sumitpandey48/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sumitpandey48/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sumitpandey48/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0494-target-sum](https://github.com/sumitpandey48/DSA/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sumitpandey48/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sumitpandey48/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -326,6 +327,7 @@
 | [0204-count-primes](https://github.com/sumitpandey48/DSA/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/sumitpandey48/DSA/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/sumitpandey48/DSA/tree/main/0326-power-of-three/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sumitpandey48/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0507-perfect-number](https://github.com/sumitpandey48/DSA/tree/main/0507-perfect-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/sumitpandey48/DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/sumitpandey48/DSA/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
