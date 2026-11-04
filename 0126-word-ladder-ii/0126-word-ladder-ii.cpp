@@ -31,9 +31,9 @@ private:
         queue<string>q;
         b = beginWord;
         q.push({beginWord});
+        mpp[beginWord] = 0;
         int m = beginWord.size();
         st.erase(beginWord);
-        mpp[beginWord] = 0;
         while(!q.empty()){
             string word = q.front();
             int steps = mpp[word];
