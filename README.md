@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitpandey48/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/sumitpandey48/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitpandey48/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitpandey48/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitpandey48/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -50,6 +51,7 @@
 | [0057-insert-interval](https://github.com/sumitpandey48/DSA/tree/main/0057-insert-interval/) | Medium |
 | [0078-subsets](https://github.com/sumitpandey48/DSA/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitpandey48/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/sumitpandey48/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/sumitpandey48/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0135-candy](https://github.com/sumitpandey48/DSA/tree/main/0135-candy/) | Hard |
 | [0137-single-number-ii](https://github.com/sumitpandey48/DSA/tree/main/0137-single-number-ii/) | Medium |
@@ -135,6 +137,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sumitpandey48/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/sumitpandey48/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sumitpandey48/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sumitpandey48/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/sumitpandey48/DSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -211,6 +214,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sumitpandey48/DSA/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0055-jump-game](https://github.com/sumitpandey48/DSA/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/sumitpandey48/DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0085-maximal-rectangle](https://github.com/sumitpandey48/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sumitpandey48/DSA/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/sumitpandey48/DSA/tree/main/0198-house-robber/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/sumitpandey48/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -563,6 +567,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/sumitpandey48/DSA/tree/main/0085-maximal-rectangle/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sumitpandey48/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sumitpandey48/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sumitpandey48/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
